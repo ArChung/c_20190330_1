@@ -3355,12 +3355,12 @@ html, body {
   top: 0;
   left: 0;
   width: 640px;
-  height: 363px;
+  height: 314px;
   background-image: url("../images/top.png");
   z-index: 3;
 }
 .bigContainer .page .content {
-  top: 400px;
+  top: 325px;
 }
 .bigContainer .page .calendarBtn {
   position: absolute;
